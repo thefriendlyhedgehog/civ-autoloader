@@ -32,3 +32,6 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# npm cache used when ~/.npm is not writable
+.npm-cache/
